@@ -56,7 +56,7 @@ Before the first question, on 27 October 2026 at 21:34 UTC, we wrote the SHA-256
 
 ## Licence
 
-Data: Creative Commons Attribution 4.0 International (CC BY 4.0), https://creativecommons.org/licenses/by/4.0/. The answer texts are the output of the AI assistants named in the data, and the source lists belong to the organisations named above.
+Scripts: MIT OR EUPL-1.2, at your choice ([LICENSE-MIT](LICENSE-MIT), [LICENSE](LICENSE)). Data, screenshots, lists and documentation: CC BY 4.0 ([LICENSE-DATA.md](LICENSE-DATA.md)).
 
 Please cite as: Dosimeter (2026). AI chatbots cited Kremlin propaganda before the US midterm elections. https://dosimeteraudit.org/research/ai-chatbots-us-midterms-2026
 

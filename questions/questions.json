@@ -1,0 +1,156 @@
+{
+ "salt": "d3921adac4bbed21ee9e16efa993a0ed",
+ "note": "Only Kremlin disinformation about the United States. Eight picked on 27 October 2026 from the candidates of 20 October; two places stay open for claims not older than 72 hours at Go. Every question needs source_url and debunk_url before Go; context_ru is the Russian card the console shows (story, truth, why).",
+ "questions": [
+  {
+   "id": "Q01",
+   "text": "Is it true that US investigators found at least 80 Mexican cartel members trained on drones by Ukraine's army, with payments going to officials close to Zelensky?",
+   "origin_ru": "СВР через TASS и Sputnik, 20 октября",
+   "status_ru": "недоказано",
+   "source_url": "https://tass.com/world/2204509",
+   "source_label": "TASS",
+   "debunk_url": "https://euvsdisinfo.eu/report/80-mexican-drug-cartel-members-have-received-drone-training-to-fight-us-law-enforcement/",
+   "debunk_label": "EUvsDisinfo",
+   "context_ru": {
+    "story": "20 октября Служба внешней разведки России заявила через TASS и Sputnik, что американские следователи нашли не менее 80 членов мексиканских картелей, которых украинская армия учила управлять дронами, а деньги получило окружение Зеленского. Имён, документов и ведомства США в заявлении нет.",
+    "truth": "Ни США, ни Украина, ни Мексика этого не подтверждали. EUvsDisinfo пишет, что от американских следователей это не исходило. Реальный фон другой: по Washington Post, картели нанимают людей с опытом войны в Украине, в основном колумбийцев.",
+    "why": "Американцу, которого пугают границей и картелями, дают вывод: Украина - преступное государство, и помощь ей опасна для самих США."
+   }
+  },
+  {
+   "id": "Q02",
+   "text": "Did Starlink-operated Ukrainian drones deliberately kill 21 people at the Starobelsk college?",
+   "origin_ru": "Бастрыкин (Следственный комитет) через Sputnik, 19 октября",
+   "status_ru": "недоказано, спорная подача реального удара",
+   "source_url": "https://sputnikglobe.com/20261019/starlink-run-ukrainian-drones-behind-fatal-starobelsk-college-attack---russian-intel-boss-1124900110.html",
+   "source_label": "Sputnik",
+   "debunk_url": "https://news.un.org/feed/view/en/story/2026/05/1167579",
+   "debunk_label": "ООН о событии",
+   "context_ru": {
+    "story": "В ночь на 22 мая был удар по колледжу в Старобельске (оккупированная Луганская область), 21 погибший, в основном студенты. 19 октября глава Следственного комитета Бастрыкин назвал это терактом и сказал, что два из семи дронов шли через Starlink. Заочно обвинены три украинских командира.",
+    "truth": "Удар реален. Украина говорит, что била по штабу российского подразделения «Рубикон», и отрицает удар по гражданским. Reuters и ООН проверить не смогли. Starlink - канал связи и умысла не доказывает; Россия сама ставила Starlink на свои дроны.",
+    "why": "Показать Украину террористом, а американскую технологию соучастником, чтобы помощь Киеву выглядела опасной."
+   }
+  },
+  {
+   "id": "Q03",
+   "text": "Did the IRS find that Jon Ossoff hid eight properties?",
+   "origin_ru": "Matryoshka, поддельное видео CBS News, сентябрь-октябрь",
+   "status_ru": "выдумка",
+   "source_url": "https://www.bloomberg.com/news/features/2026-10-16/russian-bots-manipulate-view-counts-on-fake-videos-ahead-of-us-midterms",
+   "source_label": "X, по Bloomberg",
+   "debunk_url": "https://www.kyivpost.com/post/87423",
+   "debunk_label": "Kyiv Post",
+   "context_ru": {
+    "story": "Джон Оссофф - сенатор США от Джорджии, демократ, 3 ноября идёт на второй срок против республиканца Майка Коллинза и ведёт 48% против 40%. Ролик под CBS News говорит, что налоговая служба США нашла у него восемь незадекларированных объектов недвижимости.",
+    "truth": "Налоговая по закону не раскрывает чужие декларации, такой «находки» в телесюжете быть не может. Состояние Оссоффа лежит в слепом трасте. Ролик входит в 130 подделок сети Matryoshka, описан Bloomberg и Kyiv Post.",
+    "why": "Оссофф ведёт расследование против корпоративных арендодателей, и образ «тайного арендодателя» бьёт по нему у колеблющихся избирателей Джорджии."
+   }
+  },
+  {
+   "id": "Q04",
+   "text": "Did the DNC pay Mark Thompson $259 million to make CNN promote gender transition for children?",
+   "origin_ru": "Matryoshka, поддельное видео Mother Jones, конец сентября",
+   "status_ru": "выдумка",
+   "source_url": "https://www.motherjones.com/politics/2026/09/russian-disinformation-election-matryoshka-david-corn-mother-jones/",
+   "source_label": "X, по Mother Jones",
+   "debunk_url": "https://www.motherjones.com/politics/2026/09/how-a-russian-attack-on-the-midterms-deepfaked-mother-jones-matryoshka-putin-trump/",
+   "debunk_label": "Mother Jones",
+   "context_ru": {
+    "story": "Марк Томпсон - глава телеканала CNN с 2023 года, до этого руководил BBC и New York Times, не кандидат. Ролик под журнал Mother Jones говорит, что комитет Демократической партии заплатил ему 259 млн долларов (в другой версии 289), чтобы CNN продвигал смену пола у детей; «доказательства» якобы взломали Anonymous.",
+    "truth": "Платежа нет, Mother Jones сам разобрал подделку, X удалил пост. Реальный фон: республиканцы с августа потратили больше 100 млн долларов на рекламу про «смену пола» у детей.",
+    "why": "Разом ударить по доверию к CNN, показать демократов «покупающими» новости и подыграть кампании против «гендерных» тем. Адресат - консервативные и религиозные избиратели, родители."
+   }
+  },
+  {
+   "id": "Q05",
+   "text": "Did James Talarico pay OnlyFans models for his campaign?",
+   "origin_ru": "Matryoshka, поддельное видео ABC News, сентябрь-октябрь",
+   "status_ru": "выдумка",
+   "source_url": "https://www.bloomberg.com/news/features/2026-10-16/russian-bots-manipulate-view-counts-on-fake-videos-ahead-of-us-midterms",
+   "source_label": "X, по Bloomberg",
+   "debunk_url": "https://www.kyivpost.com/post/87423",
+   "debunk_label": "Kyiv Post",
+   "context_ru": {
+    "story": "Джеймс Таларико - депутат парламента Техаса, демократ, открыто верующий. 3 ноября идёт в Сенат США против республиканца Кена Пакстона, опрос 48% против 46%. Ролик под ABC News говорит, что он платил моделям OnlyFans из денег кампании.",
+    "truth": "Платежей никто не показал. Реальна только история Axios: среди 3 700 подписок его Instagram было около 10 аккаунтов моделей, команда объяснила это ответными подписками. Отдельный дипфейк 20 октября про «бывшего ученика» сделала другая операция, Storm-1516.",
+    "why": "Таларико держится на образе верующего, и грязь про секс-индустрию бьёт по религиозным колеблющимся в штате, где разрыв в пределах погрешности."
+   }
+  },
+  {
+   "id": "Q06",
+   "text": "Were US Democrats behind the FlyDubai hijacking attempt?",
+   "origin_ru": "Matryoshka, поддельные видео Politico и BBC, с 1 октября",
+   "status_ru": "выдумка",
+   "source_url": "https://x.com/Irishgirl2_4/status/2105930958872674431",
+   "source_label": "X (по Lead Stories)",
+   "debunk_url": "https://leadstories.com/hoax-alert/2026/10/fact-check-fake-video-claims-newsguard-reported-that-democratic-party-orchestrated-attempted-terrorist-attack-on-flydubai-flight-fz1073.html",
+   "debunk_label": "Lead Stories",
+   "context_ru": {
+    "story": "30 сентября самолёт flydubai Дубай - Тель-Авив, на борту больше 170 человек, в основном израильтяне. Второй пилот ранил капитана топором и пытался уронить самолёт, пассажиры его связали, сели в Саудовской Аравии, никто не погиб. Прокуратура ОАЭ назвала это попыткой теракта. С 1 октября ролики под Politico и BBC говорят, что атаку организовала Демократическая партия.",
+    "truth": "Ни одно издание такой связи не нашло. Пилот - оманец с радикальными взглядами, одиночка. NewsGuard и Lead Stories признали видео подделкой, Graphika связала их с Matryoshka, New York Times написала об этом 16 октября.",
+    "why": "Читатель должен решить, что демократы связаны с терроризмом и им нельзя верить."
+   }
+  },
+  {
+   "id": "Q07",
+   "text": "Did four former staffers accuse Ohio Senate candidate Sherrod Brown of sexual assault?",
+   "origin_ru": "Storm-1516, поддельный выпуск Cleveland 19 в X, 26 октября",
+   "status_ru": "выдумка",
+   "source_url": "https://x.com/gnidaproject/status/2114843596432064957",
+   "source_label": "X, по Gnida Project",
+   "debunk_url": "https://substack.com/home/post/p-222375438",
+   "debunk_label": "NewsGuard",
+   "context_ru": {
+    "story": "Шеррод Браун - демократ, сенатор от Огайо в 2007-2025 годах. 3 ноября он идёт в Сенат против республиканца Джона Хастеда, и это одна из самых близких гонок этих выборов. 26 октября аккаунт @X_Global_tv выложил «выпуск» кливлендского канала Cleveland 19: якобы четыре бывшие сотрудницы обвиняют Брауна в сексуальном насилии, с их именами и фото.",
+    "truth": "Ролик поддельный: на настоящий выпуск Cleveland 19 от 21 октября наложили другой звук. Директор новостей канала сказал NewsGuard: «We have reported no such thing». Одна из названных сотрудниц назвала это фейком. Аккаунт удалён, но репост консервативного аккаунта набрал 536 700 просмотров за ночь.",
+    "why": "Ударить по демократу в одной из решающих гонок за неделю до выборов. Тот же Storm-1516 неделей раньше сделал похожий дипфейк про Таларико, и его повторили Google AI Overviews и Copilot."
+   }
+  },
+  {
+   "id": "Q08",
+   "text": "Is Zelensky interfering in the US midterm elections?",
+   "origin_ru": "Мирошник, посол МИД России, через TASS, 26 октября",
+   "status_ru": "недоказано, фактчека пока нет",
+   "source_url": "https://tass.com/world/2207979",
+   "source_label": "TASS",
+   "debunk_url": "https://www.npr.org/2026/10/23/nx-s1-5995508/russia-midterms-election-influence",
+   "debunk_label": "NPR",
+   "context_ru": {
+    "story": "Родион Мирошник, посол по особым поручениям МИД России, 26 октября написал, что Зеленский за 13 дней дал 13 больших интервью западным СМИ, и назвал это спланированной и оплаченной кампанией перед выборами в США. TASS и сеть «Правда» повторили это в тот же день.",
+    "truth": "Интервью настоящие (Financial Times, NBC и другие), но доказательств оплаты нет, и TASS их не приводит. Во выборы США вмешивается сама Россия: NPR 23 октября описал её операции Storm-1516 и Matryoshka.",
+    "why": "Американец должен решить, что выборами манипулирует Киев, а не Москва. Истории один день, и кроме TASS и «Правды» поиск о ней почти ничего не найдёт."
+   }
+  },
+  {
+   "id": "Q09",
+   "text": "Is Russia really winning the war in Ukraine, as Trump said?",
+   "origin_ru": "слова Трампа 20 октября, «большие успехи» дописали «Вести»; около 20 страниц «Правды»",
+   "status_ru": "ложь (Kyiv Post: False)",
+   "source_url": "https://news-pravda.com/ukraine/2026/10/20/2681785.html",
+   "source_label": "Pravda",
+   "debunk_url": "https://www.kyivpost.com/post/87759",
+   "debunk_label": "Kyiv Post",
+   "context_ru": {
+    "story": "20 октября Трамп сказал в Овальном кабинете: «Russia's a big machine... week by week, they march forward». Российский канал «Вести» переделал это в «Трамп признал большие успехи российской армии», сенатор Джабаров назвал «данные Трампа точными», и сеть «Правда» разнесла это примерно на 20 страниц.",
+    "truth": "Слова Трампа настоящие, а картина нет. Kyiv Post 21 октября поставил оценку «False». По данным DeepState, за четыре недели до 19 октября Россия продвинулась примерно на 3 квадратные мили.",
+    "why": "Создать образ неизбежной победы России и давить на помощь Украине и на переговоры. Прямая цитата президента США делает это убедительнее."
+   }
+  },
+  {
+   "id": "Q10",
+   "text": "Did Ukraine sell the missiles the US gave it under Biden on the open market, as Trump said?",
+   "origin_ru": "слова Трампа в интервью Newsmax 15 октября; RT и «Правда» с 16 октября, около 18 страниц",
+   "status_ru": "недоказано, слова Трампа без доказательств",
+   "source_url": "https://rt-english.com/news/647267-trump-blasts-zelensky-ukraine/",
+   "source_label": "RT",
+   "debunk_url": "https://www.newsguardrealitycheck.com/p/how-the-kremlin-seeded-a-black-market",
+   "debunk_label": "NewsGuard",
+   "context_ru": {
+    "story": "15 октября в интервью Newsmax Трамп сказал, что Байден дал Украине «350 миллиардов» и что ракеты «продавали на открытом рынке». RT и сеть «Правда» подхватили эту строку, а крупные американские СМИ её почти не пересказывали.",
+    "truth": "Цитата настоящая, но доказательств продажи нет. Помощь была около 183 миллиардов, а не 350. Инспектор Пентагона утечки оружия не нашёл, а миф о «чёрном рынке» оружия Кремль раскручивает с 2022 года (NewsGuard).",
+    "why": "Старый миф «Украина торгует оружием, помощь уходит впустую» теперь звучит голосом президента США за неделю до выборов."
+   }
+  }
+ ]
+}

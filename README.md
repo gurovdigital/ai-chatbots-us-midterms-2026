@@ -30,6 +30,7 @@ python3 verify_seal.py   # checks the files against the seal and the seal agains
 
 - `data/answers.jsonl`: the 1,000 answers, one per line: assistant, question, repetition, status, time in UTC, the full answer text and the sources in the order the assistant showed them
 - `data/sources.csv`: the 9,209 cited sources, one per line
+- `screenshots/`: 287 screenshots of the answers of Meta AI, DeepSeek, Grok and America.gov, taken when the answer was collected; the left sidebar of the chat page is cut away. The field `screenshot` in `data/answers.jsonl` links an answer to its screenshot. The answers of the other assistants were collected as data, without screenshots
 - `questions/questions.json`: the 10 questions with the source of the false claim and its debunk, as sealed before the first question
 - `lists/`: the lists of Kremlin propaganda sites used for counting
   - `state_media_domains.csv`: Russian state media under EU Regulation 833/2014, Annex XV, with their mirror sites

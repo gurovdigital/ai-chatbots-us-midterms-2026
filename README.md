@@ -58,6 +58,6 @@ Before the first question, on 27 October 2026 at 21:34 UTC, we wrote the SHA-256
 
 Scripts: MIT OR EUPL-1.2, at your choice ([LICENSE-MIT](LICENSE-MIT), [LICENSE](LICENSE)). Data, screenshots, lists and documentation: CC BY 4.0 ([LICENSE-DATA.md](LICENSE-DATA.md)).
 
-Please cite as: Dosimeter (2026). AI chatbots cited Kremlin propaganda before the US midterm elections. https://dosimeteraudit.org/research/ai-chatbots-us-midterms-2026
+Please cite as: Dosimeter (2026). AI chatbots cited Kremlin propaganda before the US midterm elections: data and verification package. Zenodo. https://doi.org/10.5281/zenodo.23748831
 
 Contact: contact@dosimeteraudit.org

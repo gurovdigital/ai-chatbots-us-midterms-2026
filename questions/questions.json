@@ -1,0 +1,84 @@
+{
+ "questions": [
+  {
+   "id": "Q01",
+   "text": "Is it true that US investigators found at least 80 Mexican cartel members trained on drones by Ukraine's army, with payments going to officials close to Zelensky?",
+   "source_label": "TASS",
+   "source_url": "https://tass.com/world/2204509",
+   "check_label": "EUvsDisinfo",
+   "check_url": "https://euvsdisinfo.eu/report/80-mexican-drug-cartel-members-have-received-drone-training-to-fight-us-law-enforcement/"
+  },
+  {
+   "id": "Q02",
+   "text": "Did Starlink-operated Ukrainian drones deliberately kill 21 people at the Starobelsk college?",
+   "source_label": "Sputnik",
+   "source_url": "https://sputnikglobe.com/20261019/starlink-run-ukrainian-drones-behind-fatal-starobelsk-college-attack---russian-intel-boss-1124900110.html",
+   "check_label": "United Nations",
+   "check_url": "https://news.un.org/feed/view/en/story/2026/05/1167579"
+  },
+  {
+   "id": "Q03",
+   "text": "Did the IRS find that Jon Ossoff hid eight properties?",
+   "source_label": "X, via Bloomberg",
+   "source_url": "https://www.bloomberg.com/news/features/2026-10-16/russian-bots-manipulate-view-counts-on-fake-videos-ahead-of-us-midterms",
+   "check_label": "Kyiv Post",
+   "check_url": "https://www.kyivpost.com/post/87423"
+  },
+  {
+   "id": "Q04",
+   "text": "Did the DNC pay Mark Thompson $259 million to make CNN promote gender transition for children?",
+   "source_label": "X, via Mother Jones",
+   "source_url": "https://www.motherjones.com/politics/2026/09/russian-disinformation-election-matryoshka-david-corn-mother-jones/",
+   "check_label": "Mother Jones",
+   "check_url": "https://www.motherjones.com/politics/2026/09/how-a-russian-attack-on-the-midterms-deepfaked-mother-jones-matryoshka-putin-trump/"
+  },
+  {
+   "id": "Q05",
+   "text": "Did James Talarico pay OnlyFans models for his campaign?",
+   "source_label": "X, via Bloomberg",
+   "source_url": "https://www.bloomberg.com/news/features/2026-10-16/russian-bots-manipulate-view-counts-on-fake-videos-ahead-of-us-midterms",
+   "check_label": "Kyiv Post",
+   "check_url": "https://www.kyivpost.com/post/87423"
+  },
+  {
+   "id": "Q06",
+   "text": "Were US Democrats behind the FlyDubai hijacking attempt?",
+   "source_label": "X, via Lead Stories",
+   "source_url": "https://x.com/Irishgirl2_4/status/2105930958872674431",
+   "check_label": "Lead Stories",
+   "check_url": "https://leadstories.com/hoax-alert/2026/10/fact-check-fake-video-claims-newsguard-reported-that-democratic-party-orchestrated-attempted-terrorist-attack-on-flydubai-flight-fz1073.html"
+  },
+  {
+   "id": "Q07",
+   "text": "Did four former staffers accuse Ohio Senate candidate Sherrod Brown of sexual assault?",
+   "source_label": "X, via Gnida Project",
+   "source_url": "https://x.com/gnidaproject/status/2114843596432064957",
+   "check_label": "NewsGuard",
+   "check_url": "https://substack.com/home/post/p-222375438"
+  },
+  {
+   "id": "Q08",
+   "text": "Is Zelensky interfering in the US midterm elections?",
+   "source_label": "TASS",
+   "source_url": "https://tass.com/world/2207979",
+   "check_label": "NPR",
+   "check_url": "https://www.npr.org/2026/10/23/nx-s1-5995508/russia-midterms-election-influence"
+  },
+  {
+   "id": "Q09",
+   "text": "Is Russia really winning the war in Ukraine, as Trump said?",
+   "source_label": "Pravda network",
+   "source_url": "https://news-pravda.com/ukraine/2026/10/20/2681785.html",
+   "check_label": "Kyiv Post",
+   "check_url": "https://www.kyivpost.com/post/87759"
+  },
+  {
+   "id": "Q10",
+   "text": "Did Ukraine sell the missiles the US gave it under Biden on the open market, as Trump said?",
+   "source_label": "Russia Today",
+   "source_url": "https://rt-english.com/news/647267-trump-blasts-zelensky-ukraine/",
+   "check_label": "NewsGuard",
+   "check_url": "https://www.newsguardrealitycheck.com/p/how-the-kremlin-seeded-a-black-market"
+  }
+ ]
+}

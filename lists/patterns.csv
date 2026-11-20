@@ -1,0 +1,7 @@
+regex,basis
+(^|\.)rtde\.[a-z]+$,RT DE mirror domains: EU Regulation 833/2014 Annex XV (RT); OFAC 13.09.2024
+(^|\.)sputniknews\.[a-z]+$,Sputnik editions (Rossiya Segodnya): EU Regulation 833/2014 Annex XV; OFAC 13.09.2024
+(^|\.)baltnews\.[a-z]+$,"pro-Kremlin outlet or clone site (benchmark list PRO, published proof per site)"
+(^|\.)politnavigator\.[a-z]+$,"pro-Kremlin outlet or clone site (benchmark list PRO, published proof per site)"
+(^|\.)strategic-culture\.(su|org)$,"pro-Kremlin outlet or clone site (benchmark list PRO, published proof per site)"
+(^|\.)southfront\.[a-z]+$,"pro-Kremlin outlet or clone site (benchmark list PRO, published proof per site)"
